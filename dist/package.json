@@ -2,9 +2,9 @@
   "name": "api-admin",
   "version": "1.0.0",
   "description": "api-admin",
-  "main": "server.admin.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.admin.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "apollo-server-express": "^2.9.16",
