@@ -1,0 +1,23 @@
+{
+  "name": "api-admin",
+  "version": "1.0.0",
+  "description": "api-admin",
+  "main": "server.admin.js",
+  "scripts": {
+    "start": "node server.admin.js"
+  },
+  "dependencies": {
+    "apollo-server-express": "^2.9.16",
+    "class-transformer": "^0.2.3",
+    "express": "^4.17.1",
+    "fuse.js": "^3.4.6",
+    "graphql": "^14.6.0",
+    "graphql-tools": "^4.0.6",
+    "lodash": "^4.17.15",
+    "reflect-metadata": "^0.1.13",
+    "type-graphql": "^0.17.6",
+    "typedi": "^0.8.0"
+  },
+  "author": "phucpham",
+  "license": "ISC"
+}
